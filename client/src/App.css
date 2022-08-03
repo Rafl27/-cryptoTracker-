@@ -1,0 +1,35 @@
+.coin-cards {
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.title {
+    font-family: monospace;
+    text-align: center;
+}
+
+.title-input {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+.title-input h1 {
+    text-align: center;
+}
+
+input {
+    width: 200px;
+    height: 30px;
+    border-radius: 20px;
+    font-weight: bold;
+    padding-left: 15px;
+    margin-bottom: 15px;
+    
+}
+

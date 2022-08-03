@@ -1,0 +1,47 @@
+.card {
+    
+    width: 150px;
+    border: black solid 2px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+    margin: 12px;
+    font-family: monospace;
+    font-size: 1rem;
+    font-weight: bold;
+    border-radius: 12px;
+    
+}
+
+.coinImg {
+    height: 100px;
+}
+
+button {
+    font-family: monospace;
+    border-radius: 2px;
+    font-weight: bold;
+}
+
+.modal-img {
+    height: 200px;
+}
+
+.modal-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-family: monospace;
+    font-weight: bold;
+    font-size: 1rem;
+    border-radius: 12px;
+    
+}
+
+.name-price{
+    text-align: center;
+}
+
+
